@@ -1,12 +1,13 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Software Engineering
+  description: "I have six years of experience developing a wide range of backend systems. From Big Data pipelines to 
+  intraday and end-of-day risk management and PnL systems, I am proficient with Python programming and SQL. I Also have 
+  experience with .Net, C# and AWS."
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Pragmatic Thinking
+  description: "I make decicions based on available evidence and pratical impact of ideas and actions to determine what is 
+  realistically implementable."
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Communication
+  description: "Communication is one of, if not the most import skill for developing great systems nowaday. My communication 
+  concise and I like to share and discuss ideas with my peers."
