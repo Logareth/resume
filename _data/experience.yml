@@ -4,7 +4,10 @@
   position: Senior Software Engineer
   duration: Nov, 2021 &mdash; Present
   summary: Developing backend software for intraday and end-of-day Risk Management and PnL for the Treasury of Itaú.
-    <ul class="resume-item-list"><li>Developed an API that provided end-of-day Risk and PnL calculations on a ETL as a Service architecture.</li></ul>
+    <ul class="resume-item-list">
+      <li>Developed an API that provided end-of-day Risk and PnL calculations on a ETL as a Service architecture.
+      The service reduced operational work from 8 hours per day to 15 minutes and eliminated over 10 spredsheets that were hard to manage.</li>
+    </ul>
 
 # Analyst at Garín Investimentos
 - company: Garín Investimentos
